@@ -34,5 +34,12 @@
             "userId": 1,
             "name": "this is user name"
         }]
+    },
+    "moxiu2": {
+        "code": 200,
+        "data": {
+            "userId": 1,
+            "name": "this is user name"
+        }
     }
 }
